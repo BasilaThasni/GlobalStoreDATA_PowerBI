@@ -44,6 +44,6 @@ This detailed breakdown of **sales performance**, **shipping preferences**, and 
 
 ![Global Store Data Visualisation](https://github.com/user-attachments/assets/7571b5bc-b6ab-4262-9624-d934e362875f)
 
-## **The video explaining the visualizations:**
+## **A video explaining the visualizations(LINKEDIN):**
 
 https://www.linkedin.com/posts/basila-thasni-989970310_analytics-powerbi-datavisualization-activity-7261403370148528128-8Dxk?utm_source=share&utm_medium=member_desktop
