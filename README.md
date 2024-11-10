@@ -42,5 +42,5 @@ This repository contains a Power BI report for analyzing sales data across a glo
 
 This detailed breakdown of **sales performance**, **shipping preferences**, and **market segmentation** provides a foundation for data-driven decision-making. Stakeholders can leverage these insights to adjust strategies across locations, optimize shipping methods, and target specific regions or markets to enhance overall performance.
 
-###Data report:
-![Data report](Global Store Data Visualisation.png)
+![Global Store Data Visualisation](https://github.com/user-attachments/assets/7571b5bc-b6ab-4262-9624-d934e362875f)
+
