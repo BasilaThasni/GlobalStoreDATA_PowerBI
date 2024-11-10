@@ -15,6 +15,5 @@ This repository contains a Power BI report for analyzing sales data across a glo
 - **Map Visualization**: Sales data mapped by `City` and `State`, with bubble sizes representing sales volume.
 - **Pie Chart**: Shows the percentage of sales by different `Ship Modes`.
 - **Clustered Bar/Column Charts**: Breakdown of sales by `Region` and `Market` for a clear view of market segmentation.
-- **Data Tables**: Detailed breakdowns in table format, with tooltips for contextual data points.
-![Global Store Data Visualisation](https://github.com/user-attachments/assets/d40eae2a-5bcf-4c1b-b541-7843
-327df90f)
+
+
